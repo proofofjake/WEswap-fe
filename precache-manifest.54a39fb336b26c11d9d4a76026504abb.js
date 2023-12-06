@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "e8452fd5fc252a02961951ec2df5c882",
+    "revision": "05e966e4401205eb27934ff02ee8ebe4",
     "url": "/WeSwapInterface/index.html"
   },
   {
@@ -8,7 +8,7 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WeSwapInterface/static/css/2.0fe88a37.chunk.css"
   },
   {
-    "revision": "49245cc34d2b30c0481c",
+    "revision": "994f62e6f6a6e5ee58d3",
     "url": "/WeSwapInterface/static/css/main.e21b4292.chunk.css"
   },
   {
@@ -20,8 +20,8 @@ self.__precacheManifest = (self.__precacheManifest || []).concat([
     "url": "/WeSwapInterface/static/js/3.1d5d5963.chunk.js"
   },
   {
-    "revision": "49245cc34d2b30c0481c",
-    "url": "/WeSwapInterface/static/js/main.97c5b2d3.chunk.js"
+    "revision": "994f62e6f6a6e5ee58d3",
+    "url": "/WeSwapInterface/static/js/main.538ef82c.chunk.js"
   },
   {
     "revision": "28f45fad33996df1b41f",
