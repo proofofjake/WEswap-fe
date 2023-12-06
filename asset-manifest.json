@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/Alternative-Uniswap-Interface/static/css/main.e21b4292.chunk.css",
-    "main.js": "/Alternative-Uniswap-Interface/static/js/main.00759bbf.chunk.js",
-    "main.js.map": "/Alternative-Uniswap-Interface/static/js/main.00759bbf.chunk.js.map",
-    "runtime~main.js": "/Alternative-Uniswap-Interface/static/js/runtime~main.c4fb756c.js",
-    "runtime~main.js.map": "/Alternative-Uniswap-Interface/static/js/runtime~main.c4fb756c.js.map",
-    "static/css/2.0fe88a37.chunk.css": "/Alternative-Uniswap-Interface/static/css/2.0fe88a37.chunk.css",
-    "static/js/2.4785a8a4.chunk.js": "/Alternative-Uniswap-Interface/static/js/2.4785a8a4.chunk.js",
-    "static/js/2.4785a8a4.chunk.js.map": "/Alternative-Uniswap-Interface/static/js/2.4785a8a4.chunk.js.map",
-    "static/js/3.1d5d5963.chunk.js": "/Alternative-Uniswap-Interface/static/js/3.1d5d5963.chunk.js",
-    "static/js/3.1d5d5963.chunk.js.map": "/Alternative-Uniswap-Interface/static/js/3.1d5d5963.chunk.js.map",
-    "index.html": "/Alternative-Uniswap-Interface/index.html",
-    "precache-manifest.f65d0e57a5418c5808778255cf538454.js": "/Alternative-Uniswap-Interface/precache-manifest.f65d0e57a5418c5808778255cf538454.js",
-    "service-worker.js": "/Alternative-Uniswap-Interface/service-worker.js",
-    "static/css/2.0fe88a37.chunk.css.map": "/Alternative-Uniswap-Interface/static/css/2.0fe88a37.chunk.css.map",
-    "static/css/main.e21b4292.chunk.css.map": "/Alternative-Uniswap-Interface/static/css/main.e21b4292.chunk.css.map"
+    "main.css": "/WeSwapInterface/static/css/main.e21b4292.chunk.css",
+    "main.js": "/WeSwapInterface/static/js/main.00759bbf.chunk.js",
+    "main.js.map": "/WeSwapInterface/static/js/main.00759bbf.chunk.js.map",
+    "runtime~main.js": "/WeSwapInterface/static/js/runtime~main.3e81a95d.js",
+    "runtime~main.js.map": "/WeSwapInterface/static/js/runtime~main.3e81a95d.js.map",
+    "static/css/2.0fe88a37.chunk.css": "/WeSwapInterface/static/css/2.0fe88a37.chunk.css",
+    "static/js/2.4785a8a4.chunk.js": "/WeSwapInterface/static/js/2.4785a8a4.chunk.js",
+    "static/js/2.4785a8a4.chunk.js.map": "/WeSwapInterface/static/js/2.4785a8a4.chunk.js.map",
+    "static/js/3.1d5d5963.chunk.js": "/WeSwapInterface/static/js/3.1d5d5963.chunk.js",
+    "static/js/3.1d5d5963.chunk.js.map": "/WeSwapInterface/static/js/3.1d5d5963.chunk.js.map",
+    "index.html": "/WeSwapInterface/index.html",
+    "precache-manifest.8407216baf7d7264445cf619d1543b03.js": "/WeSwapInterface/precache-manifest.8407216baf7d7264445cf619d1543b03.js",
+    "service-worker.js": "/WeSwapInterface/service-worker.js",
+    "static/css/2.0fe88a37.chunk.css.map": "/WeSwapInterface/static/css/2.0fe88a37.chunk.css.map",
+    "static/css/main.e21b4292.chunk.css.map": "/WeSwapInterface/static/css/main.e21b4292.chunk.css.map"
   }
 }
