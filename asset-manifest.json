@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/WeSwapInterface/static/css/main.e21b4292.chunk.css",
-    "main.js": "/WeSwapInterface/static/js/main.13c33f2a.chunk.js",
-    "main.js.map": "/WeSwapInterface/static/js/main.13c33f2a.chunk.js.map",
+    "main.css": "/WeSwapInterface/static/css/main.3602af28.chunk.css",
+    "main.js": "/WeSwapInterface/static/js/main.d61578d1.chunk.js",
+    "main.js.map": "/WeSwapInterface/static/js/main.d61578d1.chunk.js.map",
     "runtime~main.js": "/WeSwapInterface/static/js/runtime~main.3e81a95d.js",
     "runtime~main.js.map": "/WeSwapInterface/static/js/runtime~main.3e81a95d.js.map",
     "static/css/2.0fe88a37.chunk.css": "/WeSwapInterface/static/css/2.0fe88a37.chunk.css",
@@ -11,9 +11,9 @@
     "static/js/3.1d5d5963.chunk.js": "/WeSwapInterface/static/js/3.1d5d5963.chunk.js",
     "static/js/3.1d5d5963.chunk.js.map": "/WeSwapInterface/static/js/3.1d5d5963.chunk.js.map",
     "index.html": "/WeSwapInterface/index.html",
-    "precache-manifest.3f985b82da8ebf84a950fa32fcfae5f0.js": "/WeSwapInterface/precache-manifest.3f985b82da8ebf84a950fa32fcfae5f0.js",
+    "precache-manifest.aaef2999fcbfc21340e65cc2bb1e0b9b.js": "/WeSwapInterface/precache-manifest.aaef2999fcbfc21340e65cc2bb1e0b9b.js",
     "service-worker.js": "/WeSwapInterface/service-worker.js",
     "static/css/2.0fe88a37.chunk.css.map": "/WeSwapInterface/static/css/2.0fe88a37.chunk.css.map",
-    "static/css/main.e21b4292.chunk.css.map": "/WeSwapInterface/static/css/main.e21b4292.chunk.css.map"
+    "static/css/main.3602af28.chunk.css.map": "/WeSwapInterface/static/css/main.3602af28.chunk.css.map"
   }
 }
